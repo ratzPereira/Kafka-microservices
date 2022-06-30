@@ -19,7 +19,7 @@ public class FixedRateProducerV2 {
 
   private AtomicInteger counter = new AtomicInteger();
 
-  @Scheduled(fixedRate = 1000)
+  //@Scheduled(fixedRate = 1000)
   public void sendMessage(){
     int i = counter.decrementAndGet();
     log.info("I is " + i);
