@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Kafka-microservices.iml" filepath="$PROJECT_DIR$/.idea/Kafka-microservices.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kafka-core-consumer/kafka-core-consumer.iml" filepath="$PROJECT_DIR$/kafka-core-consumer/kafka-core-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kafka-core-producer/kafka-core-producer.iml" filepath="$PROJECT_DIR$/kafka-core-producer/kafka-core-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-core/kafka-core-consumer/kafka-core-consumer.iml" filepath="$PROJECT_DIR$/kafka-core/kafka-core-consumer/kafka-core-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-core/kafka-core-producer/kafka-core-producer.iml" filepath="$PROJECT_DIR$/kafka-core/kafka-core-producer/kafka-core-producer.iml" />
     </modules>
   </component>
 </project>
